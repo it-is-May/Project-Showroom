@@ -4,7 +4,7 @@ Internet Service Provider
 
 Java Tree, Map, Graph
 - IDE used: NetBeans
-- Files included: GiaoGraph, GiaoNguyenAVLTree, GiaoNguyenAssignment3A, GiaoNguyenAssignment3B, GiaoNguyenAssignment3C, GiaoNguyenHashMap, GiaoNguyenHashSet, GiaoNguyenMap, GiaoNguyenTree, GiaoNguyenUnweightedGraph, Edge
+- Files included: GiaoGraph, GiaoNguyenAVLTree, GiaoNguyenAssignment3A, GiaoNguyenAssignment3B, GiaoNguyenAssignment3C, GiaoNguyenHashMap, GiaoNguyenHashSet, GiaoNguyenMap, GiaoNguyenTree, GiaoNguyenUnweightedGraph, Edge, Lab9_2B
 
 MIPS Pizza Area Calculation
 - IDE used: Mars MIPS Simulator
