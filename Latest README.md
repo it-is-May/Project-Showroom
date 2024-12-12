@@ -10,4 +10,7 @@ MIPS Pizza Area Calculation
 Client-server Model
 - IDE used: Mobaxterm
 
-Last Reviewed: 10/17/2024
+Text Generation
+- IDE used: IntelliJ IDEA
+
+Last Reviewed: 12/11/2024
